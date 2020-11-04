@@ -23,3 +23,5 @@ print("nobody expects the spanish inquisition")
 print("next commit 1")
 
 print("next commit 2")
+
+print("zmiana dla brancha")
