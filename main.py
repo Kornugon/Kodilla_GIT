@@ -20,4 +20,6 @@ print(f"Potęga 3 tych liczb: \n{cube_root}")
 
 print("nobody expects the spanish inquisition")
 
-print("next commmit 1")
+print("next commit 1")
+
+print("next commit 2")
