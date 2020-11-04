@@ -19,3 +19,5 @@ print(f"Liczby podzielne przez 5: \n{div_5}")
 print(f"Potęga 3 tych liczb: \n{cube_root}")
 
 print("nobody expects the spanish inquisition")
+
+print("next commmit 1")
