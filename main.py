@@ -25,3 +25,5 @@ print("next commit 1")
 print("next commit 2")
 
 print("zmiana dla brancha")
+
+print("trzeci branch + commit")
